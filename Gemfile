@@ -13,6 +13,8 @@ gem 'devise', '~> 4.5'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem "stock_quote", '~> 2.0.0'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
